@@ -19,7 +19,7 @@ class Solution {
                 if (sum == 0) {
                     result.add(Arrays.asList(nums[i], nums[left], nums[right]));
 
-                    // Skip duplicate values for left and right pointers
+                    
                     while (left < right && nums[left] == nums[left + 1]) left++;
                     while (left < right && nums[right] == nums[right - 1]) right--;
 
