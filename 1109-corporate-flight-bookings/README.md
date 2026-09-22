@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/corporate-flight-bookings">1206. Corporate Flight Bookings</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> flights that are labeled from <code>1</code> to <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/corporate-flight-bookings">1109. Corporate Flight Bookings</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> flights that are labeled from <code>1</code> to <code>n</code>.</p>
 
 <p>You are given an array of flight bookings <code>bookings</code>, where <code>bookings[i] = [first<sub>i</sub>, last<sub>i</sub>, seats<sub>i</sub>]</code> represents a booking for flights <code>first<sub>i</sub></code> through <code>last<sub>i</sub></code> (<strong>inclusive</strong>) with <code>seats<sub>i</sub></code> seats reserved for <strong>each flight</strong> in the range.</p>
 
