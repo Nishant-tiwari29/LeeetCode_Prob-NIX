@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/1094-car-pooling) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
