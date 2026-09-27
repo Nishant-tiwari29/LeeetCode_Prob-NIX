@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/k-concatenation-maximum-sum">1299. K-Concatenation Maximum Sum</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>arr</code> and an integer <code>k</code>, modify the array by repeating it <code>k</code> times.</p>
+<h2><a href="https://leetcode.com/problems/k-concatenation-maximum-sum">1191. K-Concatenation Maximum Sum</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>arr</code> and an integer <code>k</code>, modify the array by repeating it <code>k</code> times.</p>
 
 <p>For example, if <code>arr = [1, 2]</code> and <code>k = 3 </code>then the modified array will be <code>[1, 2, 1, 2, 1, 2]</code>.</p>
 
