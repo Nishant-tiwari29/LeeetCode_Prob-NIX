@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0912-sort-an-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0977-squares-of-a-sorted-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
