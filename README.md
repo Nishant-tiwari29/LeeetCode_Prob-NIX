@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0152-maximum-product-subarray) |
 | [0912-sort-an-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/1191-k-concatenation-maximum-sum) |
 ## Queue
