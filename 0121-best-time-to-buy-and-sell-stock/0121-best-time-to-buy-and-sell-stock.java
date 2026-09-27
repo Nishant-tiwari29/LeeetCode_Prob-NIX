@@ -5,9 +5,9 @@ class Solution {
 
         for (int price : prices) {
             if (price < minPrice) {
-                minPrice = price; // Update the minimum price seen so far
+                minPrice = price; 
             } else if (price - minPrice > maxProfit) {
-                maxProfit = price - minPrice; // Update the maximum profit
+                maxProfit = price - minPrice; 
             }
         }
 
