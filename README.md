@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/1109-corporate-flight-bookings) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0176-second-highest-salary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
