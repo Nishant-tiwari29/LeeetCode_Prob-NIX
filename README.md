@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0206-reverse-linked-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
