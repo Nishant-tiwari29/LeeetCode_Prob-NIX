@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0503-next-greater-element-ii) |
 | [0912-sort-an-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0977-squares-of-a-sorted-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Nishant-tiwari29/LeeetCode_Prob-NIX/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
